@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chess](https://github.com/JRDNVI/libGDXChess)
 
-- 🌱 I’m currently learning **metasploit framework, React, MongoDB and AWS**
+- 🌱 I’m currently learning **the metasploit framework, React, MongoDB and AWS**
 
 - 📫 How to reach me **jordon.coady@gmail.com**
 
