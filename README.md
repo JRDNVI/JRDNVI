@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **the metasploit framework, React, MongoDB and AWS**
 
 - 📫 How to reach me **jordon.coady@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
