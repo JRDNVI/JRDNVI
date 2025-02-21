@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the metasploit framework, React, MongoDB and AWS**
 
-- 📫 How to reach me **jordon.coady@gmail.com**
+- 📫 How to reach me **20096529@mail.wit.ie**
 <p align="left">
 </p>
 
