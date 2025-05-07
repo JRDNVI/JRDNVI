@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordon</h1>
+<h1 align="center">Hi, I'm Jordon 👋</h1>
 <h3 align="center">Currently Studying BSc (Hons) in Computer Forensics & Security</h3>
 
 - 🔭 I’m currently working on [Chess](https://github.com/JRDNVI/Student-Legal-Consultation)
