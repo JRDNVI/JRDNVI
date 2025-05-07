@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordon</h1>
-<h3 align="center">Currently Studying Computer Forensics & Security</h3>
+<h3 align="center">Currently Studying BSc (Hons) in Computer Forensics & Security</h3>
 
-- 🔭 I’m currently working on [Chess](https://github.com/JRDNVI/libGDXChess)
+- 🔭 I’m currently working on [Chess](https://github.com/JRDNVI/Student-Legal-Consultation)
 
-- 🌱 I’m currently learning **the metasploit framework, React, MongoDB and AWS**
+- 🌱 I’m currently learning **AWS, GitHub Actions and Automation Methodologies and Tools**
 
-- 📫 How to reach me **20096529@mail.wit.ie**
+- 📫 How to reach me **jordon.coady@gmail.com**
 <p align="left">
 </p>
 
