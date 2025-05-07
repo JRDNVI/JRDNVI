@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Student-Legal-Consultation (Chess Project)](https://github.com/JRDNVI/Student-Legal-Consultation)
+- 🔭 I’m currently working on [Student-Legal-Consultation (Final Year Project)](https://github.com/JRDNVI/Student-Legal-Consultation)
 - 🌱 Learning: **AWS, GitHub Actions, Automation Tools, and Secure Development Practices**
 - 📫 Reach me at: **jordon.coady@gmail.com**
 
